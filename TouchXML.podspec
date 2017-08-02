@@ -120,7 +120,7 @@ Pod::Spec.new do |s|
   # s.framework  = "SomeFramework"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
-  s.library   = "libxml2"
+  s.library   = "xml2"
   #s.libraries = "iconv", "xml2"
 
 
