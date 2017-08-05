@@ -39,6 +39,7 @@
 #include <libxml/xpath.h>
 #include <libxml/xpathInternals.h>
 #include <libxml/xmlIO.h>
+#include <libxml/tree.h>
 
 static int MyXmlOutputWriteCallback(void * context, const char * buffer, int len);
 static int MyXmlOutputCloseCallback(void * context);
